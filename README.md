@@ -1,5 +1,6 @@
 <h3 align = "center">Hello!, I'm Amardeep 👋 </h3>
 
+<link rel = "stylesheet" href = "style.css">
 <div class="container">
         <img src="imgg.png", width="800", height="700">
             <button class="btn1"><a href="https://www.linkedin.com/in/amard75" target="_blank">
