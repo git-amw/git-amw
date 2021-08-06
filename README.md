@@ -1,7 +1,7 @@
 <h3 align = "center">Hello!, I'm Amardeep 👋 </h3>
 
 
-<div class="container", style="position: realative">
+<div class="container", style="position: relative">
         <img src="imgg.png", width="800", height="700">
             <button class="btn1", style="position: absolute, bottom: 255px"><a href="https://www.linkedin.com/in/amard75" target="_blank">
                     <img src="l1.jpg" , width="225" , height="40"></a></button><br>
