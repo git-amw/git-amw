@@ -1,7 +1,7 @@
 <h3 align = "center">Hello!, I'm Amardeep 👋 </h3>
 
 
-<!-- <div class="container">
+<div class="container", position : relative>
         <img src="imgg.png", width="800", height="700">
             <button class="btn1"><a href="https://www.linkedin.com/in/amard75" target="_blank">
                     <img src="l1.jpg" , width="225" , height="40"></a></button>
@@ -9,8 +9,5 @@
                     <img src="l2.png" , width="225" , height="39"></a></button> 
            <button class="btn3"><a href="https://www.codechef.com/users/poindexter" target="_blank">
                     <img src="l3.png" , width="225" , height="38"></a></button>
-</div> -->
-
-<div align="center">
-    <img src="sty.svg" width="400" height="400" alt="css-in-readme">
 </div>
+
