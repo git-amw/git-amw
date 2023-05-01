@@ -1,5 +1,6 @@
 # 💫 About Me:
-Dotnet Core WebAPI
+### Hi there 👋
+I'm Amardeep.
 
 
 ## 🌐 Socials:
